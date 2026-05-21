@@ -1,0 +1,109 @@
+RBI Monetary Policy
+
+What is Repo Rate
+Repo rate is the rate at which the Reserve Bank of India lends short-term funds to commercial banks against government securities. The current repo rate is 6.5%. When the repo rate changes, the cost of funds for banks changes and this impacts the interest rates charged to borrowers.
+
+What is Reverse Repo Rate
+Reverse repo rate is the rate at which the Reserve Bank of India borrows money from commercial banks. The current reverse repo rate is 3.35%. It is used by RBI to absorb excess liquidity from the banking system and to maintain stability in the money market.
+
+Cash Reserve Ratio CRR
+Cash Reserve Ratio, or CRR, is the percentage of a bank’s net demand and time liabilities that must be held as reserves with the RBI. Currently CRR is set at 4.5%. This requirement determines the amount of funds banks can deploy for lending; a higher CRR reduces lending capacity.
+
+Statutory Liquidity Ratio SLR
+Statutory Liquidity Ratio, or SLR, is the percentage of net demand and time liabilities that banks must maintain in the form of cash, gold, or approved government securities. The current SLR is 18%. SLR ensures that banks maintain adequate liquid assets and can meet deposit withdrawals.
+
+How these rates affect home loans and personal loans
+Repo rate forms the basis for the bank’s lending rate on floating rate home loans and personal loans. When the repo rate rises, banks typically increase their benchmark lending rates, causing EMIs on floating rate loans to become higher. Conversely, a reduction in repo rate can lead to lower interest costs for borrowers and can reduce monthly EMIs. CRR and SLR impact the overall liquidity in the banking system. Higher CRR and SLR mean banks have less money available to lend, which may tighten loan availability and keep interest rates elevated. Lower CRR and SLR release liquidity into the market, enabling banks to offer more competitive loan rates.
+
+How RBI controls inflation through these rates
+RBI uses repo rate, reverse repo rate, CRR and SLR as instruments to control inflation. When inflation is high, RBI may raise repo rate to make borrowing costlier and reduce demand. Increased reverse repo rate encourages banks to park excess funds with RBI, reducing money supply. Higher CRR and SLR require banks to keep more funds in reserve, thereby lowering the funds available for lending. When inflation is low, RBI may lower repo rate and reverse repo rate and reduce CRR and SLR to encourage lending and stimulate economic activity.
+
+KYC Guidelines by RBI
+
+Mandatory KYC for all bank accounts
+KYC, or Know Your Customer, is mandatory for all bank accounts in India. RBI requires banks to verify the identity and address of every customer before opening an account or conducting significant transactions. KYC is essential to prevent fraud, money laundering and financing of unlawful activities.
+
+Accepted identity documents
+The RBI accepts several documents as identity proof for KYC. These include Aadhaar card, PAN card, passport, voter ID card, driving licence and other documents notified by RBI. Aadhaar is widely preferred for both identity and address verification.
+
+Accepted address documents
+Address proof documents accepted for KYC include Aadhaar, passport, voter ID, driving licence, utility bills not older than two months, rent agreement, and bank statements. The document must clearly show the customer’s name and address.
+
+Risk categorization of customers
+RBI requires banks to classify customers into risk categories: low, medium and high. Low risk customers include salaried individuals with stable income, while medium risk customers may include small business owners or individuals with less predictable earnings. High risk customers may include politically exposed persons, non-resident Indians, or those engaged in high-cash-value businesses. The risk category determines the extent of due diligence and frequency of review.
+
+Periodic KYC update requirements
+Periodic KYC updates are required to ensure that customer information is current. For most customers, KYC data is reviewed every ten years or as per bank policy. High risk customers are required to update KYC more frequently, often every two years. The bank notifies the customer when KYC renewal is due.
+
+Video KYC guidelines
+RBI permits video KYC as a valid method for customer onboarding. Under video KYC guidelines, the customer must interact with an authorized bank representative over a live video call. The customer must present original identity documents on camera, and the bank captures the video recording, photograph, and necessary details. Video KYC is subject to stringent verification norms and is used for remote account opening.
+
+Digital Lending Guidelines 2022
+
+Only RBI regulated entities can lend
+Under the RBI Digital Lending Guidelines 2022, only regulated entities such as scheduled commercial banks, small finance banks, and non-banking financial companies registered with RBI can issue loans. Fintech apps may act as facilitators but cannot directly lend money.
+
+Loan sanctioning must be done by bank not app
+The guidelines emphasize that loan sanctioning decisions must be made by the regulated lending entity. The digital lending app may collect borrower information and submit it to the bank, but the final sanction and disbursement authority rests with the bank.
+
+Key Fact Statement mandatory for all loans
+A Key Fact Statement must be provided to borrowers for all loan products. It must contain critical information such as rate of interest, processing fee, tenor, EMI amount, total amount payable, prepayment charges, and consequences of default. The statement must be delivered to the borrower in a clear and understandable manner before loan acceptance.
+
+Cooling off period for borrowers
+Borrowers must be offered a cooling off period during which they can reconsider the loan terms. The guidelines require a clear provision for a cooling off period, enabling borrowers to withdraw from the loan agreement without penalty if they choose not to proceed.
+
+Data privacy rules for lending apps
+Digital lending apps must comply with data privacy and protection norms. They must obtain explicit consent before collecting personal data, use the data only for loan processing, and store it securely. The app must not misuse sensitive customer information or share it with unauthorized third parties.
+
+No automatic credit limit increase without consent
+Automatic credit limit increases are prohibited without the borrower’s explicit consent. Any change in the loan or credit limit must be communicated to the borrower in advance and require their approval. This protects borrowers from unexpected increases in liability.
+
+Customer Protection Guidelines
+
+Zero liability on unauthorized transactions if reported within 3 days
+RBI guidelines on customer protection state that customers have zero liability for unauthorized electronic banking transactions if the incident is reported within three working days of receiving the transaction alert. The bank must promptly investigate and resolve the issue.
+
+Limited liability if reported within 4 to 7 days
+If the unauthorized transaction is reported between four and seven days, the customer may have limited liability. The bank and customer share responsibility depending on the circumstances, such as whether the customer acted prudently with their credentials.
+
+How to report unauthorized transactions
+Customers should report unauthorized transactions immediately through the bank’s toll-free helpline, email support, or branch visit. The bank requires the customer to provide transaction details, account information, and any relevant correspondence. Early reporting helps accelerate investigation.
+
+RBI Banking Ombudsman Scheme
+The RBI Banking Ombudsman Scheme provides a mechanism for customers to escalate unresolved grievances. If the bank does not resolve the complaint within the prescribed time or the customer is not satisfied with the resolution, they can file a complaint with the Banking Ombudsman.
+
+How to file complaint with ombudsman
+To file a complaint with the ombudsman, the customer must first approach the bank’s grievance redressal mechanism. If the complaint remains unresolved, the customer can submit a written complaint to the respective Banking Ombudsman office, along with a copy of the complaint to the bank and the bank’s final response. The complaint may be filed online or by post.
+
+30 day resolution timeline for complaints
+RBI mandates that banks resolve customer complaints within 30 days from the date of receipt. If the complaint is complex and requires additional time, the bank must inform the customer of the expected resolution date and the reason for delay.
+
+PMLA Anti Money Laundering Rules
+
+Cash transactions above 10,00,000 must be reported
+Under the Prevention of Money Laundering Act (PMLA), banks must report all cash transactions above Rs. 10,00,000. This includes single transactions or multiple transactions that appear related and exceed the threshold in a short period.
+
+Suspicious transaction reporting
+Banks are required to file Suspicious Transaction Reports (STRs) for any transaction that appears unusual or does not match the customer’s known profile. This may include suspicious deposits, withdrawals, or fund transfers that indicate potential money laundering or fraudulent activity.
+
+PAN mandatory for transactions above 50,000
+PAN is mandatory for cash transactions above Rs. 50,000 and for certain financial transactions such as buying mutual funds or forex purchase. Customers who do not have a PAN must provide Form 60 as a declaration.
+
+Form 60 if PAN not available
+If the customer does not possess a PAN, they may submit Form 60 as a declaration. Form 60 is accepted for transactions where PAN is mandatory, subject to the bank’s verification of identity and address.
+
+Interest Rate Guidelines
+
+Banks must display all interest rates publicly
+RBI requires banks to publish all interest rates on their websites and at branches. This includes rates for savings accounts, fixed deposits, loans, and other products. Public disclosure ensures transparency and helps customers compare products.
+
+No hidden charges allowed
+Banks must disclose all charges and fees associated with a product. Hidden costs are prohibited. Customers should receive a clear schedule of charges for processing fees, penal interest, prepayment penalties, and other service charges.
+
+Prepayment penalty rules for floating rate loans
+For floating rate loans, RBI guidelines limit prepayment penalties. Borrowers should be informed of any prepayment charges upfront. Some loans may offer prepayment without penalty after a specified period.
+
+Annual Percentage Rate APR must be disclosed
+Banks must disclose the Annual Percentage Rate (APR) for loan products. APR reflects the effective interest cost, including fees and charges, enabling borrowers to compare loan offers on a consistent basis.
+
+These RBI guidelines and policies are intended to protect banking customers, ensure fair practices, and maintain the integrity of the financial system. Customers are encouraged to stay informed about RBI regulations and to approach their bank for clarification on specific policies.

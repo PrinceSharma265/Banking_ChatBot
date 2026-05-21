@@ -1,0 +1,116 @@
+How to open a savings account?
+
+Documents required
+To open a savings account, the bank requires valid identity and address proof along with recent passport size photographs. The standard documents accepted are Aadhaar card for identity and address verification, PAN card for income tax compliance and KYC purposes, and a passport size photograph. Additional documents such as voter ID, driving licence, or utility bill may be required if the address on Aadhaar is not current.
+
+Minimum balance requirements
+The bank offers two categories of savings accounts, regular and premium. For a regular savings account, the minimum balance requirement is Rs. 1,000. For a premium savings account with additional benefits such as higher withdrawal limits and free demand drafts, the minimum balance requirement is Rs. 5,000. If the balance falls below the stipulated minimum, the bank may levy a quarterly or monthly maintenance charge as per the account terms.
+
+Online and offline process
+The online account opening process begins with visiting the bank’s official website or mobile app. The applicant chooses the savings account variant, fills in the application form, uploads scanned copies of Aadhaar, PAN and passport photograph, and completes an e-KYC flow if available. If video KYC is offered, the customer may verify identity via a live video call. For the offline process, the applicant visits the branch, collects the savings account application form, fills it out, submits the required documents, and signs the account opening form in the presence of a bank official.
+
+Account activation timeline
+After submission of documents and verification, account activation usually takes between one to three working days. If the bank requires additional documentation or verification, the process may extend up to seven working days. Once the KYC is complete and the initial deposit is made, the account is activated and the customer receives the account number, welcome kit, and debit card dispatch details.
+
+What are NEFT, RTGS and IMPS?
+
+NEFT
+NEFT stands for National Electronic Funds Transfer. It is an electronic payment system for transferring funds from one bank account to another across India. NEFT operates in half-hourly batches during the bank’s service hours, typically from 8:00 AM to 7:00 PM on working days. There is no minimum amount requirement, and banks may impose a daily or transaction-specific limit based on the customer’s profile. Settlement time is normally within the same business day if the transaction is initiated before the bank’s cut-off time. Charges vary by bank and can depend on the amount transferred.
+
+RTGS
+RTGS stands for Real Time Gross Settlement. It is used for high-value transactions with a minimum amount of Rs. 2,00,000. The payment is settled in real time and on a gross basis, meaning the funds are transferred immediately once the transaction is processed. RTGS is available during bank working hours, usually from 8:00 AM to 4:30 PM on working days. Since funds move instantly, it is suitable for urgent large transfers. Banks may levy a fee for RTGS transactions according to RBI-prescribed slabs.
+
+IMPS
+IMPS stands for Immediate Payment Service. It is available 24 hours a day, seven days a week, including weekends and holidays. IMPS allows instant transfer of funds up to a transaction limit, typically Rs. 5,00,000 per transaction, depending on the bank’s policy. The transfer is completed within seconds, making it convenient for urgent payments. Charges for IMPS are generally lower than RTGS and may vary based on the customer’s account type.
+
+UPI
+UPI stands for Unified Payments Interface. It is a mobile-based payment system linked to the customer’s bank account and mobile number. UPI transfers are instant and available round the clock. The daily transaction limit is usually Rs. 1,00,000, though individual banks may set lower limits. UPI is commonly used for merchant payments, peer-to-peer transfers, and bill payments.
+
+ATM and Debit Card
+
+Daily ATM withdrawal limit
+The bank provides a daily ATM withdrawal limit based on the account type. For regular savings account holders, the standard limit is Rs. 25,000 per day. For premium savings account holders, the limit is higher, typically Rs. 50,000 per day. This limit applies to withdrawals from ATMs and may be subject to lower limits for specific ATM networks or international transactions.
+
+Free ATM transactions
+Customers are entitled to a number of free ATM transactions each month. For own bank ATMs, the bank typically allows five free cash withdrawals per month. For other bank ATMs, the bank offers three free transactions per month. Beyond these limits, additional withdrawal charges may apply as per the bank’s tariff schedule.
+
+How to block debit card
+If the debit card is lost, stolen, or compromised, the customer should immediately block the card to prevent unauthorized usage. The card can be blocked through the bank’s customer care helpline, mobile banking app, or internet banking portal. The bank also accepts written requests at the branch. Once blocked, a replacement card is issued after verification of the customer’s identity.
+
+PIN generation process
+The Personal Identification Number (PIN) for the debit card can be generated through the bank’s ATM, net banking, or mobile banking application. Some banks send a PIN mailer to the registered address, while others provide an instant PIN generation option at select ATMs. In net banking, customers may request a PIN generation and receive a temporary PIN or instructions for setting a new PIN.
+
+Fixed Deposit (FD)
+
+Minimum amount
+The bank accepts fixed deposit applications with a minimum deposit of Rs. 1,000. Customers may choose the deposit amount according to their savings objectives and financial capacity.
+
+Tenure
+Fixed deposit tenures range from a minimum of 7 days to a maximum of 10 years. Short-term deposits are suitable for liquidity needs, while long-term deposits offer higher interest rates and help in planning for future expenses.
+
+Interest rates
+Interest rates on fixed deposits depend on the tenure selected. The bank offers rates ranging from 3.5% to 7.5% per annum. Typically, shorter tenures attract lower rates around 3.5% to 4.5%, while longer tenures of three to ten years earn higher rates up to 7.5%.
+
+Premature withdrawal penalty
+If a customer chooses to withdraw the fixed deposit before maturity, a premature withdrawal penalty applies. The penalty amount is typically between 0.5% and 1% of the interest rate, depending on the deposit tenure and prevailing terms. The applicable rate is lowered for the period the funds were held.
+
+Tax Deducted at Source (TDS)
+Interest earned on fixed deposits is subject to TDS if the total interest in a financial year exceeds Rs. 40,000 for regular customers and Rs. 50,000 for senior citizens, as per RBI guidelines. The bank deducts TDS at the applicable rate from the interest payable, unless the customer submits Form 15G/15H and meets the eligibility criteria.
+
+KYC (Know Your Customer)
+
+What is KYC and why it is required
+KYC stands for Know Your Customer. It is a mandatory process used by banks to verify the identity and address of the customer. KYC is required to prevent money laundering, fraud, and financing of unlawful activities. It ensures that the bank maintains accurate customer records and complies with regulatory requirements.
+
+Documents accepted for KYC
+The bank accepts several documents for KYC, including Aadhaar card, PAN card, voter ID, driving licence, and passport. Proof of address may be established through recent utility bills, rental agreement, or Aadhaar. The customer must present original documents for verification at the branch or submit digitally verified copies through the bank’s online KYC process.
+
+Video KYC process
+Video KYC allows customers to complete the KYC process remotely. The customer schedules a video call with the bank’s authorised representative, presents the original documents on camera, and answers basic verification questions. The representative captures the customer’s photograph and confirms the details. Once the verification is complete, the bank updates the customer’s KYC status.
+
+KYC renewal every 2 years for high risk customers
+Customers classified as high risk are required to renew their KYC every two years. High risk categories may include non-resident Indians, high net worth individuals, or customers with large transaction volumes. The bank contacts the customer prior to renewal and collects updated documents to revalidate the KYC information.
+
+How to add nominee to account?
+
+Online process through net banking
+Customers can add a nominee to their savings account through net banking. After logging in, the customer navigates to the nominee management section, enters nominee details such as name, relationship, date of birth, and proportion of nomination if multiple nominees are added, and submits the request. The bank processes the request after authentication.
+
+Offline process through branch
+In the offline mode, the customer visits the branch and fills out the nominee registration form. The customer provides nominee details and submits the form along with a copy of their identity proof. The bank updates the account records and issues a confirmation receipt.
+
+Multiple nominees allowed
+The bank allows multiple nominees to be registered for a single account. The nomination form specifies the share in which each nominee will receive the proceeds in the event of the account holder’s death. It is important to ensure that nominee details are accurate and up to date.
+
+Nominee vs legal heir
+A nominee is the person designated by the account holder to receive the account proceeds in case of death. A legal heir is determined by succession law and may differ from the nominee if the nominee is not alive at the time of claim. The bank pays the nominated amount to the nominee, subject to legal verification.
+
+Internet Banking and Mobile Banking
+
+How to register for net banking
+To register for internet banking, the customer visits the bank’s website and selects the net banking registration option. The customer enters the account number, customer ID, and registered mobile number. An OTP is sent to the mobile number for verification. After successful verification, the customer sets up login credentials and a transaction password.
+
+Transaction limits
+Transaction limits for internet banking and mobile banking depend on the customer’s account type and risk profile. Daily limits may be set for fund transfers, bill payments, and third-party transactions. Higher limits may be available for premium account holders after completing additional authentication and verification.
+
+Security features
+The bank employs multiple security measures for internet and mobile banking. These include OTP-based authentication, two-factor authentication, secure access codes, device binding, and end-to-end encryption. Customers are also advised not to share passwords, not to use public Wi-Fi for transactions, and to update their mobile banking apps regularly.
+
+What to do if account is hacked
+If the customer suspects that their account has been hacked, they should immediately change their internet banking password, block the debit card, and contact the bank’s customer care helpline. The customer should also log in from a secure device, review recent transactions, and report any unauthorized activity to the bank. The bank will investigate the incident and assist in securing the account.
+
+Grievance Redressal
+
+Customer care number
+Customers can reach the bank’s customer care number at 1800-XXX-XXXX for general enquiries, complaints, or assistance. The helpline is available during banking hours and offers support for account-related issues.
+
+Email support
+The bank provides email support for written communication. Customers can send their complaints or queries to the designated customer service email address. The bank typically responds within the stipulated grievance resolution time frame.
+
+Branch visit
+Customers may visit the nearest branch to register complaints in person. The branch staff assists with grievance registration, document submission, and follow-up. A complaint reference number is provided for tracking the status of the grievance.
+
+Banking Ombudsman escalation process
+If a customer is not satisfied with the bank’s resolution, they may escalate the matter to the Banking Ombudsman. The Banking Ombudsman scheme is a redressal mechanism established by the Reserve Bank of India for unresolved complaints. Customers should first exhaust the bank’s internal grievance process and then file a complaint with the Ombudsman within the prescribed time frame.
+
+This FAQ document is intended to provide practical guidance to customers on common banking queries, processes, and services. Customers are advised to refer to the bank’s official terms and conditions for detailed policy information.
