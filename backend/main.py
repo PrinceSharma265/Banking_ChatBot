@@ -1,7 +1,8 @@
 from fastapi import FastAPI, UploadFile, File, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
+from fastapi.responses import StreamingResponse
 from pydantic import BaseModel
-from rag_pipeline import get_response
+from rag_pipeline import get_response, get_streaming_response
 from vector_store import add_documents, get_collection_count
 import pypdf
 import uuid
@@ -63,6 +64,36 @@ async def chat(request: ChatRequest):
         raise
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"Chat processing failed: {e}")
+
+
+@app.post("/chat/stream")
+async def chat_stream(req: ChatRequest):
+    """Stream a chat response in real-time using the RAG pipeline."""
+    if not req.message.strip():
+        raise HTTPException(status_code=400, detail="Message cannot be empty")
+    
+    history = sessions.get(req.session_id, [])
+    
+    def generate():
+        full_reply = ""
+        for chunk in get_streaming_response(req.message, history):
+            full_reply += chunk
+            yield chunk
+        
+        updated_history = history + [
+            {"role": "user", "content": req.message},
+            {"role": "assistant", "content": full_reply}
+        ]
+        sessions[req.session_id] = updated_history[-10:]
+    
+    return StreamingResponse(
+        generate(),
+        media_type="text/plain",
+        headers={
+            "Cache-Control": "no-cache",
+            "X-Accel-Buffering": "no"
+        }
+    )
 
 
 def chunk_text(text: str, chunk_size: int = 500, overlap: int = 100):

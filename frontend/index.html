@@ -386,22 +386,41 @@
       showTypingIndicator();
 
       try {
-        const response = await fetch(`${BACKEND_URL}/chat`, {
+        const response = await fetch(BACKEND_URL + "/chat/stream", {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({ message, session_id }),
         });
 
-        const data = await response.json();
         hideTypingIndicator();
 
-        const reply = response.ok && data.reply ? data.reply : "Sorry, something went wrong. Please try again.";
-        const botBubble = createMessageBubble(reply, "bot");
-        chatWindow.appendChild(botBubble);
+        const botMessageEl = document.createElement("div");
+        botMessageEl.className = "message bot";
+        const avatar = document.createElement("div");
+        avatar.className = "avatar";
+        avatar.textContent = "🏦";
+        const bubble = document.createElement("div");
+        bubble.className = "bubble bot";
+        bubble.textContent = "";
+        botMessageEl.appendChild(avatar);
+        botMessageEl.appendChild(bubble);
+        chatWindow.appendChild(botMessageEl);
+        scrollToBottom();
+
+        const reader = response.body.getReader();
+        const decoder = new TextDecoder();
+
+        while (true) {
+          const { done, value } = await reader.read();
+          if (done) break;
+          const chunk = decoder.decode(value, { stream: true });
+          bubble.textContent += chunk;
+          scrollToBottom();
+        }
+
       } catch (error) {
         hideTypingIndicator();
-        const botBubble = createMessageBubble("Sorry, something went wrong. Please try again.", "bot");
-        chatWindow.appendChild(botBubble);
+        addMessage("Sorry, something went wrong. Please try again.", "bot");
       }
 
       scrollToBottom();
