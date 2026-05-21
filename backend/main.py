@@ -1,6 +1,5 @@
 from fastapi import FastAPI, UploadFile, File, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
-from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel
 from rag_pipeline import get_response
 from vector_store import add_documents, get_collection_count
@@ -20,9 +19,6 @@ app.add_middleware(
     allow_headers=["*"],
     allow_credentials=True,
 )
-
-# Optional static files mounting if needed by the frontend
-app.mount("/static", StaticFiles(directory="../frontend"), name="static")
 
 # In-memory sessions dictionary to store chat history per session
 sessions = {}
