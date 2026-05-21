@@ -6,8 +6,8 @@ import os
 # Load environment variables from .env file
 load_dotenv()
 
-# Read the Gemini API key from environment variables
-api_key = os.getenv("GEMINI_API_KEY")
+# Read the GROQ API key from environment variables
+api_key = os.getenv("GROQ_API_KEY")
 
 # Initialize the Groq client with the API key
 client = Groq(api_key=api_key)
