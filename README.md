@@ -105,7 +105,9 @@ Step 10: Frontend displays tokens word by word as they arrive
 - Auto-deploys when code is pushed to GitHub main branch (CI/CD)
 - Frontend served as static HTML file
 - Environment variables stored securely in Railway dashboard
-- Production URL: https://bankingchatbot-production.up.railway.app
+- Health Check: `https://bankingchatbot-production.up.railway.app/health`
+- API Documentation: `https://bankingchatbot-production.up.railway.app/docs`
+- Base URL: `https://bankingchatbot-production.up.railway.app`
 
 ## Setup Instructions
 

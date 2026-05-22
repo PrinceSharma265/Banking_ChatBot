@@ -39,6 +39,7 @@ async def health():
         raise HTTPException(status_code=500, detail=f"Health check failed: {e}")
 
 
+
 @app.post("/chat")
 async def chat(request: ChatRequest):
     """Process a chat request using the RAG pipeline and maintain session history."""
