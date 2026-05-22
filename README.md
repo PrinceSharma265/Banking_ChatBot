@@ -77,7 +77,14 @@ uvicorn main:app --reload --port 8000
 
 ## Screenshots
 
-> Screenshots coming soon. Replace this section with actual UI images once available.
+### Chat Interface
+![Chat Interface](screenshots/chat_Interface.png)
+
+### Health Endpoint
+![Health Endpoint](screenshots/Health_endpoint.png)
+
+### File Upload
+![File Upload](screenshots/File_Upload.png)
 
 ## Future Improvements
 
